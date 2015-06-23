@@ -1,4 +1,6 @@
 #sitemap xml stylesheet
+![sitemap1](https://cloud.githubusercontent.com/assets/5467932/8301468/a8ceb2a6-19c0-11e5-9159-55481ceb143a.png)
+![sitemap2](https://cloud.githubusercontent.com/assets/5467932/8301470/abe6369e-19c0-11e5-800b-4acc29938726.png)
 
 ###Step 1
 Upload sitemap.xsl style file to the web root directory

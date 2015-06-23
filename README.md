@@ -9,7 +9,7 @@ sitemap.xml add style code
 <?xml-stylesheet type="text/xsl" href="http://www.yourdomain.com/sitemap.xsl"?>
 ```
 
-###demo
+##demo
 ![sitemap1](https://cloud.githubusercontent.com/assets/5467932/8301468/a8ceb2a6-19c0-11e5-9159-55481ceb143a.png)
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>

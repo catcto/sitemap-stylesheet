@@ -1,15 +1,15 @@
-#sitemap xml stylesheet
+# sitemap xml stylesheet
 
-###Step 1
+### Step 1
 Upload sitemap.xsl style file to the web root directory
 
-###Step 2
+### Step 2
 sitemap.xml add style code
 ```xml
 <?xml-stylesheet type="text/xsl" href="http://www.yourdomain.com/sitemap.xsl"?>
 ```
 
-##demo
+## demo
 ![sitemap1](https://cloud.githubusercontent.com/assets/5467932/8301468/a8ceb2a6-19c0-11e5-9159-55481ceb143a.png)
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
